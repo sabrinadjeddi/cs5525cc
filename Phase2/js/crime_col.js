@@ -16,7 +16,7 @@ function drawBasic() {
         title: 'The Crime of Columbia from 2016 to 2019 ',
         chartArea: {width: '60%'},
         hAxis: {
-            title: 'Total Crime rate in KC',
+            title: 'Total Crime rate in Columbia',
             minValue: 0
         },
         vAxis: {
